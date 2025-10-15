@@ -1,0 +1,25 @@
+{
+  "name": "secure-2fa-band-backend",
+  "version": "1.0.0",
+  "description": "Backend for Secure Push 2FA Confirmation Band",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "@clerk/clerk-sdk-node": "^4.13.0",
+    "mqtt": "^5.3.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "ws": "^8.16.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "keywords": ["iot", "2fa", "esp32", "clerk", "mqtt", "wearable"],
+  "author": "",
+  "license": "MIT"
+}

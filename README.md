@@ -1,6 +1,5 @@
 # 🔐 2-Factor Authentication using ESP32
 
-![ESP32 2FA Band](esp%2032.jpg)
 
 A secure, hardware-based 2FA (Two-Factor Authentication) system using ESP32 microcontroller that provides physical confirmation for sensitive actions through a wearable device.
 

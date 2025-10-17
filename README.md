@@ -269,11 +269,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 4. Test thoroughly
 5. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
+## ‍💻 Author
 
 **Madhur Toshniwal**
 - Email: madhurtoshniwal03@gmail.com
